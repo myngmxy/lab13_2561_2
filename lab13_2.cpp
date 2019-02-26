@@ -29,7 +29,6 @@ void inputMatrix(double a[][N]){
 			cin >> a[i][j];	}
 	}
 }
-
 void findLocalMax(const double A[][N], bool B[][N]){
 	
 	for(int i=0;i<N;i++){

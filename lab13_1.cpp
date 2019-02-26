@@ -32,7 +32,6 @@ int i, x, j;
        	for(int u = j+2; u < N; u++) cout << d[u] << " ";
 	    cout<<"\n";
    	} 
-
 }
 
 int main(){
